@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.iconTheme": "vs-seti",
+		"workbench.tips.enabled": false,
+		"explorer.compactFolders": true,
+		"editor.cursorStyle": "line",
+		"workbench.colorCustomizations": {
+			"statusBar.background" : "#ff7700",
+			"statusBar.noFolderBackground" : "#212121",
+			"statusBar.debuggingBackground": "#c70000"
+		}
+		
+	}}
